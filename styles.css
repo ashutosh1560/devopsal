@@ -1,0 +1,49 @@
+.top-container{
+  background-color: #E0EBE8;;
+  position: relative;
+  padding-top: 100px;
+  }
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h1{
+  margin: 0;
+}
+
+.middle-container{
+  padding: 100px;
+  margin: 100px;
+  position: relative;
+}
+.bottom-container{
+  position: relative;
+  padding: 100px;
+  margin: 100px;
+}
+
+span{
+  text-decoration: underline;
+  /*display:none;
+  visibility: hidden;
+  visibility: collapse;*/
+}
+
+/*.web{
+  text-decoration:line-through;
+}*/
+
+.bottom-cloud{
+  position: absolute;
+  top: 200px;
+}
+
+
+.top-cloud{
+  position: absolute;
+  right:400px;
+  bottom:400px;
+}
